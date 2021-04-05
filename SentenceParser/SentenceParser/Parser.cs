@@ -74,7 +74,7 @@ namespace SentenceParser
             {
                 Console.WriteLine(sbText.ToString());
             }
-
+            File.WriteAllText(destination, sbText.ToString());
             return true;
         }
     }
