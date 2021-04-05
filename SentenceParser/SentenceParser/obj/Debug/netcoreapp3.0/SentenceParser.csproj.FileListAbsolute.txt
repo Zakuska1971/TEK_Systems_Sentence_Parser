@@ -21,3 +21,4 @@ C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentencePar
 C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.dll
 C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.pdb
 C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\Shrew.txt
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\Smooth.txt

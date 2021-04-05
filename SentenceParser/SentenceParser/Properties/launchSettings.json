@@ -2,7 +2,7 @@
   "profiles": {
     "SentenceParser": {
       "commandName": "Project",
-      "commandLineArgs": "Shrew.txt Out.txt +v"
+      "commandLineArgs": "Smooth.txt Out.txt +v"
     }
   }
 }

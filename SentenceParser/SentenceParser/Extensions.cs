@@ -6,9 +6,11 @@ namespace SentenceParser
 {
     static class Extensions
     {
-        public static string Passing(this string str)
+        public static bool isAlpha(this char c)
         {
-            return str;
+            bool ret = false;
+
+            return ret;
         }
     }
 }
