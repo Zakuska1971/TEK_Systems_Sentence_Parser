@@ -1,4 +1,5 @@
 ﻿using System;
+using SentenceParser;
 
 /*
  * 
@@ -23,7 +24,20 @@ namespace SentenceParser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                Parser sp = new Parser(args[0], args[1]);
+                sp.ParseSentences(args.Length == 3 && args[2].ToLower() == "+v");
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine("Usage:\r\n");
+                Console.WriteLine("  SentenceParser <source> <destination> [+v]");
+                Console.WriteLine("\r\n  +v = Verbose");
+            }
+            catch (Exception ex) {
+                // TODO: Handle any other exceptions
+            }
         }
     }
 }

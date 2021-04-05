@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmcel\\Source\\Repos\\TEK\\SentenceParser\\SentenceParser\\SentenceParser.csproj",
+      "projectUniqueName": "C:\\Users\\jmcel\\OneDrive\\Documents\\GitHub\\TEK_Systems_Sentence_Parser\\SentenceParser\\SentenceParser\\SentenceParser.csproj",
       "projectName": "SentenceParser",
-      "projectPath": "C:\\Users\\jmcel\\Source\\Repos\\TEK\\SentenceParser\\SentenceParser\\SentenceParser.csproj",
+      "projectPath": "C:\\Users\\jmcel\\OneDrive\\Documents\\GitHub\\TEK_Systems_Sentence_Parser\\SentenceParser\\SentenceParser\\SentenceParser.csproj",
       "packagesPath": "C:\\Users\\jmcel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmcel\\Source\\Repos\\TEK\\SentenceParser\\SentenceParser\\obj\\",
+      "outputPath": "C:\\Users\\jmcel\\OneDrive\\Documents\\GitHub\\TEK_Systems_Sentence_Parser\\SentenceParser\\SentenceParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

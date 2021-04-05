@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SentenceParser": {
+      "commandName": "Project",
+      "commandLineArgs": "Shrew.txt Out.txt +v"
+    }
+  }
+}
