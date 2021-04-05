@@ -9,3 +9,16 @@ C:\Users\jmcel\Source\Repos\TEK\SentenceParser\SentenceParser\obj\Debug\netcorea
 C:\Users\jmcel\Source\Repos\TEK\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.AssemblyInfo.cs
 C:\Users\jmcel\Source\Repos\TEK\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.dll
 C:\Users\jmcel\Source\Repos\TEK\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.pdb
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.exe
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.deps.json
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.runtimeconfig.json
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.runtimeconfig.dev.json
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.dll
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\SentenceParser.pdb
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.csprojAssemblyReference.cache
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.AssemblyInfoInputs.cache
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.AssemblyInfo.cs
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.dll
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\obj\Debug\netcoreapp3.0\SentenceParser.pdb
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\Shrew.txt
+C:\Users\jmcel\OneDrive\Documents\GitHub\TEK_Systems_Sentence_Parser\SentenceParser\SentenceParser\bin\Debug\netcoreapp3.0\Smooth.txt
